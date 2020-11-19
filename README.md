@@ -1,5 +1,5 @@
-- [website](liz2020.github.io/me)
-- [blogs](liz2020.github.io/blogs)
+- [website | 个人网站](https://liz2020.github.io/me)
+- [blogs | 博客](https://liz2020.github.io/blogs)
 
 <!--
 **liz2020/liz2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
